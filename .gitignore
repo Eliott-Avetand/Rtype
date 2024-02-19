@@ -1,0 +1,36 @@
+# Visual Studio
+
+.vs/
+.vscode/
+out/
+
+# All needed libs
+
+sfml-system-2.dll
+sfml-window-2.dll
+
+# Binary
+
+r-type_client*
+r-type_engine*
+r-type_server*
+
+# Compilation
+
+Release/
+CMakeFiles/
+_deps/
+build/
+
+compile.sh
+
+# Conan Files
+
+conan.lock
+conanbuildinfo.cmake
+conanbuildinfo.txt
+conaninfo.txt
+graph_info.json
+
+# Doxygen Files
+DoxygenDoc/

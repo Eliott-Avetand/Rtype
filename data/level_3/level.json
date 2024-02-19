@@ -1,0 +1,8 @@
+{
+    "background": {
+        "name": "spaceship",
+        "planets": []
+    },
+    "music": "./client/assets/musics/levels_musics/spaceship.ogg",
+    "boss": true
+}

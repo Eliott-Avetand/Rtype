@@ -1,0 +1,8 @@
+{
+    "background": {
+        "name": "crowded",
+        "planets": []
+    },
+    "music": "./client/assets/musics/levels_musics/crowded.ogg",
+    "boss": false
+}

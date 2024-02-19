@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name": "Revo",
+        "maxHealth": 1,
+        "sprite": "client/assets/sprites/monsters/monster2.png",
+        "occurences": "15",
+        "timeToSpawn": 5,
+        "pattern": "random"
+    },
+    "2": {
+        "name": "Revo",
+        "maxHealth": 1,
+        "sprite": "client/assets/sprites/monsters/monster2.png",
+        "occurences": "20",
+        "timeToSpawn": 10,
+        "pattern": "circular"
+    },
+    "3": {
+        "name": "Revo",
+        "maxHealth": 1,
+        "sprite": "client/assets/sprites/monsters/monster2.png",
+        "occurences": "20",
+        "timeToSpawn": 15,
+        "pattern": "zigzag"
+    }
+}

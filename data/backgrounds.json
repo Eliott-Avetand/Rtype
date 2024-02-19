@@ -1,0 +1,46 @@
+{
+	"default": {
+		"background": "./client/assets/sprites/spaces/backgrounds/1.png",
+		"dusts": "./client/assets/sprites/spaces/dusts/1.png",
+		"stars": [
+			"./client/assets/sprites/spaces/stars/1_1.png",
+			"./client/assets/sprites/spaces/stars/1_2.png"
+		]
+	},
+	"borkfest": {
+		"background": "./client/assets/sprites/spaces/backgrounds/2.png",
+		"dusts": "./client/assets/sprites/spaces/dusts/2.png",
+		"stars": [
+			"./client/assets/sprites/spaces/stars/2_1.png",
+			"./client/assets/sprites/spaces/stars/2_2.png"
+		]
+	},
+	"pollen": {
+		"background": "./client/assets/sprites/spaces/backgrounds/3.png",
+		"dusts": "./client/assets/sprites/spaces/dusts/3.png",
+		"stars": [
+			"./client/assets/sprites/spaces/stars/3_1.png",
+			"./client/assets/sprites/spaces/stars/3_2.png"
+		]
+	},
+	"chimera": {
+		"background": "./client/assets/sprites/spaces/backgrounds/4.png",
+		"dusts": "./client/assets/sprites/spaces/dusts/4.png",
+		"stars": [
+			"./client/assets/sprites/spaces/stars/4_1.png",
+			"./client/assets/sprites/spaces/stars/4_2.png"
+		]
+	},
+    "crowded": {
+		"background": "./client/assets/sprites/spaces/backgrounds/5.png",
+		"dusts": "./client/assets/sprites/spaces/dusts/4.png",
+		"stars": [
+			"./client/assets/sprites/spaces/transparent.png",
+			"./client/assets/sprites/spaces/transparent.png"
+		]
+	},
+    "spaceship": {
+		"background": "./client/assets/sprites/spaces/backgrounds/6.jpg",
+		"defile": "./client/assets/sprites/spaces/backgrounds/6.png"
+	}
+}

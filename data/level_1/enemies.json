@@ -1,0 +1,26 @@
+{
+    "0": {
+        "name": "Cancer",
+        "maxHealth": 1,
+        "sprite": "client/assets/sprites/monsters/monster.png",
+        "occurences": "10",
+        "timeToSpawn": 1,
+        "pattern": "sinusoidal"
+    },
+    "1": {
+        "name": "Revo",
+        "maxHealth": 1,
+        "sprite": "client/assets/sprites/monsters/monster2.png",
+        "occurences": "10",
+        "timeToSpawn": 5,
+        "pattern": "random"
+    },
+    "2": {
+        "name": "Revo",
+        "maxHealth": 1,
+        "sprite": "client/assets/sprites/monsters/monster2.png",
+        "occurences": "10",
+        "timeToSpawn": 10,
+        "pattern": "circular"
+    }
+}
